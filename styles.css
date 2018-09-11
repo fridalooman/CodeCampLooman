@@ -1,22 +1,21 @@
 h1 {
-  color: red
+  color: white;
 }
 h2 {
-  color: pink
+  color: #bd2c95;
 }
 img {
-width: 400px;
-margin-left: 400px;
-margin-right: 400px;
-padding: 10px;
+  width: 400px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 10px;
 }
-head {
-  background-color: grey;
+header {
+  background-color: red;
 }
 .pink {
-  color: pink;
+  color: #bd2c95;
 }
-
 .large {
   font-size: 30px;
 }
