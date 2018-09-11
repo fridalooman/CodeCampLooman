@@ -1,2 +1,22 @@
+h1 {
+  color: red
+}
+h2 {
+  color: pink
+}
+img {
+width: 400px;
+margin-left: 400px;
+margin-right: 400px;
+padding: 10px;
+}
+head {
+  background-color: grey;
+}
+.pink {
+  color: pink;
+}
 
-/* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+.large {
+  font-size: 30px;
+}
